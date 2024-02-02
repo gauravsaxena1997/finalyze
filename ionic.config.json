@@ -1,0 +1,7 @@
+{
+  "name": "finalyse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
